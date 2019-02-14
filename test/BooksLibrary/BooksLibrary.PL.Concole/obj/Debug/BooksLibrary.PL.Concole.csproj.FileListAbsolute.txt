@@ -1,0 +1,1 @@
+D:\KIN\DemoTemplate\BooksLibrary.DAL\BooksLibrary.PL.Concole\bin\Debug\BooksLibrary.PL.Concole.exe.config
